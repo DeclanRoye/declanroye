@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Stackoverflow application](https://github.com/DeclanRoye/stackoverflow_app_next.js14)
 
-- 🌱 I’m currently learning **Machine Learning/AI,Golang, Blockchain & Python Multi-Threading**
+- 🌱 I’m currently learning **Machine Learning/AI,Go, Blockchain & Python Multi-Threading**
 
 - 📫 How to reach me **declanroye@hotmail.com**
 
