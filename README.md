@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Declan</h1>
-<h3 align="center">A Javascript/Python Enthusiats & Final Year Computer Engineering Student</h3>
+<h3 align="center">A Python Enthusiats & Technology Intern @Landsec </h3>
 
-- 🔭 I’m currently working on a [Stackoverflow application](https://github.com/DeclanRoye/stackoverflow_app_next.js14)
 
-- 🌱 I’m currently learning **Machine Learning/AI,Go, Blockchain & Python Multi-Threading**
+- 🌱 I’m currently learning **Machine Learning/AI & Python Multi-Threading**
 
 - 📫 How to reach me **declanroye@hotmail.com**
 
