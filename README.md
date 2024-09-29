@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Declan</h1>
-<h3 align="center">A Python Enthusiats & Technology Intern @Landsec </h3>
+<h3 align="center">Technology Intern @Landsec </h3>
 
 
 - 🌱 I’m currently learning **Machine Learning/AI & Python Multi-Threading**
